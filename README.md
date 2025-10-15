@@ -1,4 +1,3 @@
-# DarkHeart1.py
 Little chat-bot
 
 print("Hello! My name is Verin, your AI assistant for today.")
